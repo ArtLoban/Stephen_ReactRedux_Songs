@@ -1,0 +1,48 @@
+
+        >>> Info <<<
+
+********************************************************************
+
+Course:         Modern React with Redux
+See:            /home/loban/Documents/[_Study_]/[Stephen Grider]/[React-Redux]/Files/1_Tutorials/17 Integrating React with Redux
+Repo:           https://github.com/ArtLoban/Stephen_ReactRedux_Songs
+
+Started:    17.03.2023
+Done:
+
+Description: Simple App to learn how to put together React + Redux. Use as a base example
+
+Screens:
+
+
+Note:
+
+******************************************************
+
+    ** Setup Project **
+
+1.  Create React App
+$   npx create-react-app songs
+
+2. Go to /songs folder
+
+3. Remove git (will be added for parent `songs` folder)
+$ rm -fr .git
+
+4. Install dependencies
+$   npm i --save redux react-redux
+
+5. Go to /songs/src folder and delete all from there
+
+6. Create root index.js file
+
+7. And so on...
+
+******************************************************
+
+    ** Run App **
+
+1. Run App
+$   npm start
+
+In browser:
